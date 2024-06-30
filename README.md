@@ -1,1 +1,2 @@
-#一个网页版的“小蜜蜂”游戏。基于html+css+Javascript。
+#一个网页版游戏组合。基于html+css+Javascript。
+#分为四个游戏模块,2048,小恐龙,消除砖块,小蜜蜂
